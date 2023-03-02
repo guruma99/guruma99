@@ -4,7 +4,7 @@
   <div align="center">
     <img width=100 src = "https://user-images.githubusercontent.com/121204952/221412355-601d580f-056f-45cc-ba5d-e765485f3202.gif">
    <img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
-    <img src="https://simpleicons.org/?q=css/badge/CSS3-#1572B6?logo=CSS3">
+    <img src="https://simpleicons.org/?q=css/CSS3-#1572B6?logo=CSS3">
     
   </div>
 </body>
