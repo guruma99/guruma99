@@ -2,11 +2,27 @@
 
 <body>
   <div align="center">
-    <img width=100 src = "https://user-images.githubusercontent.com/121204952/221412355-601d580f-056f-45cc-ba5d-e765485f3202.gif">
+    <img width=50% src = "https://user-images.githubusercontent.com/121204952/221412355-601d580f-056f-45cc-ba5d-e765485f3202.gif">
+    <br>
+   
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+   <br>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
     
-   <img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5">
+  
+   
     
   </div>
 </body>
