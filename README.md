@@ -6,6 +6,7 @@
     
    <img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5">
     
   </div>
 </body>
