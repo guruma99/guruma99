@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&fontAlign=75&fontAlignY=30&fontSize=40&fontColor=000000?height=300&text=Hi!%20%I'm%20%Haemin!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=160&section=header&fontAlign=75&fontAlignY=30&fontSize=40&fontColor=000000?height=300&text=Hi!%20%I'm%20%Haemin!)
 
 <body>
   <div align="left">
@@ -41,7 +41,7 @@
 <!--  total visit   -->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguruma99%2Fhit-counter&count_bg=%235200FF&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=160&section=footer)
   </div>
 
 </body>
