@@ -41,7 +41,7 @@
    <br>
    <br>
 <!--   Stats Card   -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&langs_count=5&layout=compact/card_width=530px">
   <img src="https://github-readme-stats.vercel.app/api?username=guruma99&show_icons=true">
  </div>
 <!--  total visit   -->
