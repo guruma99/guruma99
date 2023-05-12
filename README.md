@@ -43,11 +43,11 @@
 <!--   Stats Card   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=guruma99&show_icons=true">
- 
+ </div>
 <!--  total visit   -->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguruma99%2Fhit-counter&count_bg=%235200FF&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     
    ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=160&section=footer)
-  </div>
+  
 
 </body>
