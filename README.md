@@ -35,12 +35,15 @@
    <br>
    <img src="https://img.shields.io/badge/mail-00AC47?style=for-the-badge&logo=gmail&logoColor=white">
     <br>
+    <h1></h1>
+    <p> <span style="background-color:#fff5b1">▼ click 시 포트폴리오로 이동합니다. ▼ </span></p>
    <img src="https://img.shields.io/badge/클릭하면 포트폴리오로 이동-FF5C83?style=for-the-badge&logo=클릭하면 포트폴리오로 이동&logoColor=black">
    <br>
    <br>
    <br>
    <br>
 <!--   Stats Card   -->
+    <h3> ✏️ Study log </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&langs_count=5&layout=compact/card_width=500px">
   <img src="https://github-readme-stats.vercel.app/api?username=guruma99&show_icons=true/card_width=600px">
  </div>
