@@ -22,7 +22,7 @@
    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&layout=compact"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=guruma99&show_icons=true">
 
    
