@@ -2,8 +2,7 @@
 
 <body>
   <div align="center">
-    <img width=50% src = "https://user-images.githubusercontent.com/121204952/221412355-601d580f-056f-45cc-ba5d-e765485f3202.gif">
-    <br>
+    
    
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -23,7 +22,9 @@
    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
     
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&layout=compact"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=guruma99&show_icons=true">
+
    
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguruma99%2Fhit-counter&count_bg=%235200FF&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </div>
