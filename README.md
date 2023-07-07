@@ -3,8 +3,10 @@
 <body>
   <div align="left">
   <h1>🧑🏻‍🎨Introduce Myself👩🏻‍💻</h1>
-  <p>안녕하세요, 이전에는 그림을 그렸고 , 현재는 front-End 개발자라는 꿈을 그리는 강해민 입니다.</p>
-  <p>사용자가 웹페이지에서 눈으로 보는 영역을 구현해 나간다는 점이 그림과 유사하다고 생각합니다. 최선의 결과를 위해 작업에 매진할 수 있는 인내심과 끈기가 저의 장점이라고 생각합니다. 한 걸음 성장을 위해 부단히 노력하는 개발자가 되겠습니다.</p>
+  <p> 안녕하세요, 이전에는 그림을 그렸고 , 현재는 front-End 개발자라는 꿈을 그리는 강해민 입니다.<br>
+      사용자가 웹페이지에서 눈으로 보는 영역을 구현해 나간다는 점이 그림과 유사하다고 생각합니다.<br>
+      최선의 결과를 위해 작업에 매진할 수 있는 인내심과 끈기가 저의 장점입니다. 한 걸음 성장을 위해 부단히 노력하는 개발자가 되겠습니다.
+  </p>
    <br>
     
 <!--   Readme Badge    -->
@@ -15,7 +17,9 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
    <br>
+   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
    <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
