@@ -62,7 +62,9 @@
    <br>
 <!--   Stats Card   -->
     <h3> ✏️ Study log </h3>
+    <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruma99&langs_count=5&layout=compact/card_width=500px">
+  -->
   <img src="https://github-readme-stats.vercel.app/api?username=guruma99&show_icons=true/card_width=600px">
  </div>
 <!--  total visit   -->
