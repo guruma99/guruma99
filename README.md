@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&fontAlign=75&fontAlignY=30&fontSize=40&fontColor=000000?height=300&text=Thank%20%you%20%20for%20%Visiting!)
 
+<!-- 나중에 바꿀 때 써먹어야지
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=100)![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hm's+GitHub!👋)
+-->
+
 <body>
   <div align="left">
   <h1>🧑🏻‍🎨Introduce Myself👩🏻‍💻</h1>
-  <p> <br>
-      <br>
-      
+  <p>      
   </p>
    <br>
     
@@ -18,6 +20,10 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+   <br>
+   <img src="https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=white">
+   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
    <br>
    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
@@ -41,15 +47,17 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
    <br>
    <br>
+   <!--
    <h3>🎨  SNS & Portfolio  </h3>
    <br>
    <img src="https://img.shields.io/badge/mail-00AC47?style=for-the-badge&logo=gmail&logoColor=white">
+   -->
     <br>
     <h1></h1>
+    <!--
     <p> <span style="background-color:#fff5b1">▼ click 시 포트폴리오로 이동합니다. ▼ </span></p>
    <img src="https://img.shields.io/badge/클릭하면 포트폴리오로 이동-FF5C83?style=for-the-badge&logo=클릭하면 포트폴리오로 이동&logoColor=black">
-   <br>
-   <br>
+     -->
    <br>
    <br>
 <!--   Stats Card   -->
